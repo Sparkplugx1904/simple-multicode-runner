@@ -1,6 +1,6 @@
 # 🚀 simple-multicode-runner
 
-**simple-multicode-runner** is a lightweight Bash script that lets you compile and run source code files across multiple programming languages using a single command. It automatically detects the file extension and invokes the appropriate compiler or interpreter, streamlining your development workflow.
+**simple-multicode-runner** for termux is a lightweight Bash script that lets you compile and run source code files across multiple programming languages using a single command. It automatically detects the file extension and invokes the appropriate compiler or interpreter, streamlining your development workflow.
 
 ---
 
