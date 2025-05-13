@@ -21,25 +21,9 @@
 ---
 
 ## 📦 Installation
-
+Copy and run the following command to install the run binary on your system.
 ```bash
-# 1. Clone the repository
-git clone https://github.com/Sparkplugx1904/simple-multicode-runner.git
-
-# 2. Go into the project directory
-cd simple-multicode-runner
-
-# 3. Make the script executable
-chmod +x run.sh
-
-# 4. Move it into your ~/bin (or other PATH directory)
-mv run.sh ~/bin/run
-
-# 5. Ensure ~/bin is in your PATH (add to ~/.bashrc or ~/.zshrc)
-echo 'export PATH="$HOME/bin:$PATH"' >> ~/.bashrc
-
-# 6. Reload your shell configuration
-source ~/.bashrc
+curl -s https://raw.githubusercontent.com/Sparkplugx1904/simple-multicode-runner/main/run.sh -o ~/bin/run && chmod +x ~/bin/run
 ```
 ## 🧪 Usage
 ```
