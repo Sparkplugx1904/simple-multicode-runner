@@ -26,7 +26,7 @@ Copy and run the following command to install the run binary on your system.
 curl -s https://raw.githubusercontent.com/Sparkplugx1904/simple-multicode-runner/main/run.sh -o ~/bin/run && chmod +x ~/bin/run
 ```
 ```bash
-curl -o ~/bin/run https://raw.githubusercontent.com/Sparkplugx1904/simple-multicode-runner/main/run-exp.sh
+curl -o ~/bin/run https://raw.githubusercontent.com/Sparkplugx1904/simple-multicode-runner/main/run-exp.sh -o ~/bin/run && chmod +x 
 ```
 ## 🧪 Usage
 ```
